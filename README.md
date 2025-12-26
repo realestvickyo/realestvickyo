@@ -1,7 +1,7 @@
 <!-- BANNER -->
-<img src="https://readme-hero.vercel.app/api?username=realestvickyo&style=radical" alt="realestvickyo banner" width="100%" />
 
-# 👋 Hey there, I'm realestvickyo
+
+# Hey there, I'm Victor Keitany 
 
 ### 🧑‍💻 Software Engineer | Passionate About Full-Stack Development
 
