@@ -10,6 +10,7 @@ I'm a curious and driven software engineer who enjoys turning ideas into real-wo
 ---
 
 ### 🔧 Tech Stack
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,12 +18,12 @@ I'm a curious and driven software engineer who enjoys turning ideas into real-wo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 ---
 
 ### 🚀 What I'm Working On
-Currently building a **School Management System** to simplify academic operations and streamline communication.
+Currently building a **Kilimo smart** to simplify and help farmers detect pests and diseases using weather forecast and KALRO engine rules.
 
 ---
 
